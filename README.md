@@ -1,23 +1,14 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# react-portfolio
 
-# React Portfolio
+> **This repository is a legacy archive.**
+>
+> This was an earlier version of my developer portfolio, built with React. It has been superseded by a new portfolio built with React, Vite, Tailwind CSS, and PostCSS.
+>
+> **Current portfolio:** [alexgeer.dev](https://alexgeer.dev) — source at [portfolio_2](https://github.com/agDesignz/portfolio_2)
 
-## [See the site on Netlify](https://alexgeer.netlify.app/)
+---
 
-## Description
-
-A professional portfolio built with react to showcase my work and allow others to download my resume and/or contact me. This site is a work in progress. Check back for improvements.
-
-## Screenshots
-
-![screenshot](assets/screenshot-1.png)
-![screenshot](assets/screenshot-2.png)
-![screenshot](assets/screenshot-3.png)
-![screenshot](assets/screenshot-4.png)
-
-## Questions
-
-Github: [ag-bootcamp-umn](https://github.com/ag-bootcamp-umn)
+_Kept here for reference and version history._
 
 ## License
 
